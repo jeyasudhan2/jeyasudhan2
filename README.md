@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🧑‍💻 Passionate about **building performant web apps**, with a focus on accessibility and user experience.
 - 🌐 Currently diving deep into **networking concepts** like routing, switching, and network security.
@@ -19,7 +19,7 @@
 - 🧠 Lifelong learner, constantly exploring tools, trends, and tech — from frontend to infrastructure.
 
 ---
-## 🔧 Tech Stack
+## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,7 +47,7 @@
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - 🧩 **Advanced Networking Concepts** – Routing, Switching, and Security.
 - 🎯 **UX Research & Prototyping** – Designing user-centered flows.
@@ -55,7 +55,7 @@
 
 ---
 
-## 💼 What I Do
+##  What I Do
 
 - 🔨 Build responsive, accessible, and SEO-friendly web applications.
 - 🎨 Design beautiful and intuitive interfaces using Figma & Adobe tools.
@@ -64,7 +64,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeya-sudhan-r-808a442ba/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeyasuthan265com@gmail.com)
@@ -81,7 +81,7 @@
 
 ---
 
-## 📁 Featured Projects
+##  Featured Projects
 
 <!-- You can add links to your GitHub repos here -->
 - 🔗 [**Portfolio Website**](https://github.com/jeyasudhan2/your-portfolio-repo) — Built with React & Tailwind
